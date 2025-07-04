@@ -21,7 +21,39 @@
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         <guid>https://neoddk.github.io/about/</guid>
-        <description>&lt;p&gt;This is a test page for i18n support.&lt;/p&gt;
+        <description>&lt;h1 id=&#34;欢迎来到我的奇妙博客&#34;&gt;欢迎来到我的&lt;strong&gt;奇妙&lt;/strong&gt;博客！
+&lt;/h1&gt;&lt;h2 id=&#34;嘿朋友我是-ddk&#34;&gt;嘿，朋友！我是 &lt;strong&gt;ddk&lt;/strong&gt;
+&lt;/h2&gt;&lt;p&gt;我知道，你一定在想：“这又是一个做研究的无聊的笨蛋博士的博客吧？”其实不然！这个博客是我把自己脑袋里的乱七八糟的东西统统搬出来的地方——从网络流量安全分析到关于咖啡的深度思考，每一篇博客都有可能让你大吃一惊，或者至少能让你笑出声。&lt;/p&gt;
+&lt;p&gt;在这里，你可以期待到一些这样的内容：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;学术的迷雾&lt;/strong&gt;：是的，我也做研究（不信你问我导师），但我承诺不会让它变得枯燥。偶尔我会分享一些有关网络流量安全分析的“秘籍”，当然，我也是偷偷摸摸的在这里找灵感的。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;技术小白快看&lt;/strong&gt;：我是个写代码的小能手，但同时我也会让它变得有趣。比如，如何在处理数据时避免掉进代码的“坑”，或者怎么让编程不那么痛苦。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;我的生活日常&lt;/strong&gt;：毕竟，谁说博士就只能死读书？这里会有我关于生活的一些胡思乱想，可能包括我尝试用Python去打羽毛球的故事（当然，结果不是很成功）。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;博客目录简直像个迷宫敬请期待&#34;&gt;博客目录（简直像个迷宫，敬请期待）
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#&#34; &gt;如何在加密流量里捉摸用户行为？&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#&#34; &gt;QUIC协议：如果它会说话，它会说什么？&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#&#34; &gt;我的学术之旅：从小学生到疯狂研究者&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;#&#34; &gt;我尝试过的最奇怪的编程问题&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;这个博客为什么存在&#34;&gt;这个博客为什么存在？
+&lt;/h2&gt;&lt;p&gt;是的，简单来说，这个博客就是我随便记录想法、技术探索和生活感悟的地方。你可以在这里看到我追求技术的疯狂，以及偶尔我如何花费几个小时给一个小小的bug寻找解药。还有，如果你看见一些莫名其妙的笑话，不要惊讶——有时候“傻子”的幽默，真的只有另一个“傻子”能懂。&lt;/p&gt;
+&lt;h3 id=&#34;我是谁&#34;&gt;我是谁？
+&lt;/h3&gt;&lt;p&gt;我是 &lt;strong&gt;ddk&lt;/strong&gt;，一名人类，专注于网络流量安全分析等网络安全方面的工作。除了琢磨代码，我还喜欢打羽毛球、骑行、游戏（CS2、PUBG&amp;hellip;&amp;hellip;）和偶尔做一些疯狂的自我提升。我不敢说自己是网络流量安全分析领域的救世主，但我确实在尽力让它变得不那么枯燥。&lt;/p&gt;
+&lt;h3 id=&#34;还有什么可以期待&#34;&gt;还有什么可以期待？
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;研究鬼才或技术小白&lt;/strong&gt;：不管你是大佬还是新手，我希望我都能为你提供点不一样的干货（或者笑话）！&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;咖啡与代码&lt;/strong&gt;：如果你也认为咖啡/羽毛球是研究的灵魂伴侣，来吧！一起探讨如何在研究时找灵感！（但记住，不要喝/打太多！）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;快来和我联系吧&#34;&gt;快来和我联系吧！
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;GitHub: &lt;a class=&#34;link&#34; href=&#34;https://github.com/neoddk&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;@neoddk&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;ContactMe: [dikangdai@seu.edu.cn]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;总之，这里就是一个带点技术、带点生活、带点幽默的地方。希望你能喜欢，不然我也只能继续自娱自乐了。
+(&lt;em&gt;╹▽╹&lt;/em&gt;)&lt;/p&gt;
 </description>
         </item>
         <item>
@@ -30,34 +62,7 @@
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         <guid>https://neoddk.github.io/links/</guid>
-        <description>&lt;p&gt;To use this feature, add &lt;code&gt;links&lt;/code&gt; section to frontmatter.&lt;/p&gt;
-&lt;p&gt;This page&amp;rsquo;s frontmatter:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
-&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;5
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;6
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;7
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;8
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;9
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-yaml&#34; data-lang=&#34;yaml&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nt&#34;&gt;links&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;- &lt;span class=&#34;nt&#34;&gt;title&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;GitHub&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;description&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;GitHub is the world&amp;#39;s largest software development platform.&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;website&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;https://github.com&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;image&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;- &lt;span class=&#34;nt&#34;&gt;title&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;TypeScript&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;description&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;website&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;https://www.typescriptlang.org&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;image&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;ts-logo-128.jpg&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;&lt;code&gt;image&lt;/code&gt; field accepts both local and external images.&lt;/p&gt;
-</description>
+        <description></description>
         </item>
         <item>
         <title>Search</title>
